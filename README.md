@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [this amazing hotel website](https://cesarferdev.github.io/Miranda-web/)
 
-- and [this dashboard to manage this hotel](https://cesarferdev.github.io/Miranda-dashboard)
+- and [this dashboard to manage the hotel bookings, rooms, users...](https://cesarferdev.github.io/Miranda-dashboard)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Typescript, React, Redux, Node.js, Express.js, PHP, MogoDB, SQL**
 
