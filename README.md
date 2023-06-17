@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cesarFerDev?tab=repositories](https://github.com/cesarFerDev?tab=repositories)
 
+- 🏠 My personal portfolio: https://cesarfernandez.netlify.app/
+
 - 📫 How to reach me **cesarfercerezuela@gmail.com**
 
 - ⚡ Fun fact **I make music too! If you want to check my Spotify profile I let you the link: https://open.spotify.com/artist/3G8Ri1LHGiwgdvRrQ5AlrH?si=qTMcp4jgReaVYI0liUrpSg**
