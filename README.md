@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm César</h1>
 <h3 align="center">A Full Stack junior developer</h3>
 
-- 🔭 I’m currently working on [this amazing hotel website](https://cesarferdev.github.io/Miranda-web/)
+- 🔭 I’m currently working on [this amazing hotel website](http://ec2-15-236-55-103.eu-west-3.compute.amazonaws.com/home)
 
 - 📅 and [this dashboard to manage the hotel bookings, rooms, users...](https://cesarferdev.github.io/Miranda-Dashboard)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cesarfercerezuela@gmail.com**
 
-- ⚡ Fun fact **I make music too! If you want to check my Spotify profile I let you the link: https://open.spotify.com/artist/3G8Ri1LHGiwgdvRrQ5AlrH?si=qTMcp4jgReaVYI0liUrpSg**
+- ⚡ Fun fact **I make music too! If you want to check my Spotify profile I let you the link:** [Spotify](https://open.spotify.com/artist/3G8Ri1LHGiwgdvRrQ5AlrH?si=qTMcp4jgReaVYI0liUrpSg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
