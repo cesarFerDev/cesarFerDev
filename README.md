@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cesarfercerezuela@gmail.com**
 
-- ⚡ Fun fact **I make music too! If you want to check my Spotify profile I let you the link:** [Spotify](https://open.spotify.com/artist/3G8Ri1LHGiwgdvRrQ5AlrH?si=qTMcp4jgReaVYI0liUrpSg)
+- ⚡ Fun fact **I make music too! If you want to check my Spotify profile I let you the link:** [Jekk0](https://open.spotify.com/artist/3G8Ri1LHGiwgdvRrQ5AlrH?si=qTMcp4jgReaVYI0liUrpSg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
